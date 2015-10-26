@@ -1,0 +1,5 @@
+name = Contact Checkbox
+description = Removes the checkbox from the contact form.
+package = Custom
+core = 7.x
+files[] = contactcheckbox.module
